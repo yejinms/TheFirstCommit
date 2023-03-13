@@ -1,2 +1,2 @@
-email :
-gitID :
+email : yejinms@naver.com
+gitID : yejinms
